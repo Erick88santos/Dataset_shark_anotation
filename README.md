@@ -38,7 +38,13 @@ O código realiza **treinamento e validação de um modelo de aprendizado de má
 
 **Objetivo Final**: Treinar e validar um modelo eficiente de classificação de imagens, otimizando seu desempenho com Early Stopping para evitar treinamento excessivo e melhorar a generalização.
 
-Crie um arquivo dentro do diretório /images com o nome ´´index-early-stopping.py´´ adicione:
+# Passo a Passo:
+
+1- Baixe o DATASET e descompacte-o: 
+
+[DATASET-ZIP](https://drive.google.com/drive/folders/1MwLEkfiph4amjvWXvr2tkwrvrB7n77uS?usp=sharing)
+
+2- Crie um arquivo dentro do diretório /images com o nome ´´index-early-stopping.py´´ e escreva:
 
 # Importe os arquivos necessários:
 ````
