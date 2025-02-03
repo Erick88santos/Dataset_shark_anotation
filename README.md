@@ -246,3 +246,6 @@ def plot_training_history(history):
 plot_training_history(training_history)
 
 ````
+# RESULTADO 
+
+![Image](https://github.com/user-attachments/assets/86a2074b-7715-414b-82db-5cc3213d1b74)
