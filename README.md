@@ -36,7 +36,11 @@ O código realiza **treinamento e validação de um modelo de aprendizado de má
 5. **Visualização de Resultados**:
    - Um gráfico exibe as curvas de erro e acurácia para avaliar o desempenho do modelo ao longo das épocas.
 
-![Image](https://github.com/user-attachments/assets/86a2074b-7715-414b-82db-5cc3213d1b74)
+<div align="center">
+
+ <img src="https://github.com/user-attachments/assets/86a2074b-7715-414b-82db-5cc3213d1b74" width="650px"/>
+ 
+</div>
 
 6. **Predição em Imagem Única**:
    - O modelo é usado para prever a classe de uma imagem individual, exibindo o resultado com o nível de confiança.
