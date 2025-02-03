@@ -8,8 +8,12 @@ Classificação Dataset </br>
  <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GITHUB-800080?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/PYTHON-1a4a3f?style=for-the-badge&logo=python&logoColor=white"/>
-  
+
+<img align="center" alt="LABEL-STUDIO" src="https://img.shields.io/badge/LABEL-STUDIO-he4a3f?style=for-the-badge&logo=LABEL-STUDIO&logoColor=white"/>  
+
 </div></br>
+
+https://img.shields.io/badge/LABEL-STUDIO
 
 
 ### Resumo da Análise do Código
