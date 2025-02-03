@@ -13,7 +13,6 @@ Classificação Dataset </br>
 
 </div></br>
 
-https://img.shields.io/badge/LABEL-STUDIO
 
 
 ### Resumo da Análise do Código
