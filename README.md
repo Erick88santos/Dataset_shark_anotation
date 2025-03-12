@@ -38,9 +38,11 @@ O código realiza **treinamento e validação de um modelo de aprendizado de má
 
 <div align="center">
 
- <img src="https://github.com/user-attachments/assets/86a2074b-7715-414b-82db-5cc3213d1b74" width="650px"/>
+ <img src="https://github.com/user-attachments/assets/82c5d659-ab0d-4eb5-afb3-d9855ba5df2a" width="650px"/>
  
 </div>
+
+
 
 6. **Predição em Imagem Única**:
    - O modelo é usado para prever a classe de uma imagem individual, exibindo o resultado com o nível de confiança.
@@ -254,4 +256,4 @@ plot_training_history(training_history)
 ````
 # RESULTADO 
 
-![Image](https://github.com/user-attachments/assets/86a2074b-7715-414b-82db-5cc3213d1b74)
+![Image](https://github.com/user-attachments/assets/82c5d659-ab0d-4eb5-afb3-d9855ba5df2a)
