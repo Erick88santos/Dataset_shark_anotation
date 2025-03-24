@@ -36,7 +36,7 @@ Para treinar o modelo, foi necessário preparar o conjunto de dados:
 O treinamento foi realizado usando o framework **Ultralytics YOLO**, seguindo os passos abaixo:
 - **Definição dos hiperparâmetros**:
   - Modelo: `YOLOv8n.pt` (versão nano para melhor desempenho em tempo real)
-  - Épocas: 50
+  - Épocas: 60
   - Tamanho do batch: 16
   - Taxa de aprendizado ajustada para evitar overfitting
 - **Execução do treinamento**:
