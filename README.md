@@ -2,6 +2,17 @@
 
 # **Detecção de Tubarões com YOLO (Drone Shark Detection Dataset)**
 
+
+<div alt="linguagens"><br>
+
+ <img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-800080?style=for-the-badge&logo=github&logoColor=white">
+
+<img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-1a4a3f?style=for-the-badge&logo=python&logoColor=white">
+
+<img alt="LABEL-STUDIO" src="https://img.shields.io/badge/LABEL-STUDIO-he4a3f?style=for-the-badge&logo=LABEL-STUDIO&logoColor=white">  
+
+</div><br>
+
 ## **1. Introdução**
 Este notebook tem como objetivo treinar modelos de detecção de objetos usando a biblioteca **Ultralytics** com diferentes versões do modelo **YOLO** (You Only Look Once). O modelo será treinado para identificar tubarões em imagens capturadas por drones, utilizando o **[Drone Shark Detection Dataset](https://www.kaggle.com/datasets/erick88santos/drone-shark-detection-dataset)**.
 
