@@ -68,3 +68,8 @@ O treinamento e teste do modelo YOLO para detecção de tubarões apresentou bon
 
 ---
 
+## **Referências**
+- [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
+- [Drone Shark Detection Dataset](https://www.kaggle.com/datasets/erick88santos/drone-shark-detection-dataset)
+- [Train and Deploy YOLO Models](https://github.com/EdjeElectronics/Train-and-Deploy-YOLO-Models)
+- [EJ Technology Consultants](https://ejtech.io)
